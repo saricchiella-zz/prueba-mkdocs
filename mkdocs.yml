@@ -1,0 +1,5 @@
+site_name: Nalej
+nav:
+    - Principal: index.md
+    - Segunda página: about.md
+theme: readthedocs
